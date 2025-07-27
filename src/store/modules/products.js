@@ -16,7 +16,7 @@ export default {
                 
                 "Handcrafted with beautiful illustrations and a wide variety of puzzles providing around 2.5 hours of content and includes offline and online puzzle elements. The game is split into 5 parts, and your progress is saved between parts, so you don't have to play it all at once, unless you want to of course! It's designed for adults but that doesn't mean junior detectives can't take on the challenge. The game content is suitable for all ages and the difficulty is recommended for ages 8+ with some adult assistance."],
                 review: { rating: 5, reviewer: 'Review The Room' },
-                price: 1000,
+                price: 1450,
                 requirements: [
                     'computer with internet access',
                     'colour printer',
@@ -39,7 +39,7 @@ export default {
                 "It's designed for adults but that doesn't mean junior detectives can't take on the challenge. The game content is suitable for all ages and the difficulty is recommended for ages 8+ with some adult assistance.."
                 ],
                 review: { rating: 5, reviewer: 'Review The Room' },
-                price: 1000,
+                price: 1450,
                 requirements: [
                     'computer with internet access',
                     'colour printer',
