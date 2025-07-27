@@ -97,7 +97,7 @@
             },
 
             formatPrice: function (amount) {
-                const result = amount / 100
+                const result = (amount / 100).toFixed(2)
                 return amount === 0 ? 'FREE!' : `Just £${result}`
             },
 
