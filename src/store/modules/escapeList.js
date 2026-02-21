@@ -525,6 +525,14 @@ export default {
                 gamesPlayed: [
                     { name: 'Spy Heroes' }
                 ]
+            },
+            {
+                venue: 'Escape In 60',
+                city: 'Windsor',
+                country: 'UK',
+                gamesPlayed: [
+                    { name: 'The Amber Room' }
+                ]
             }
         ],
 
