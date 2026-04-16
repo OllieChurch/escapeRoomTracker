@@ -533,7 +533,15 @@ export default {
                 gamesPlayed: [
                     { name: 'The Amber Room' }
                 ]
-            }
+            },
+			{
+				venue: 'Sam & Cooper',
+				city: 'Seville',
+				country: 'Spain',
+				gamesPlayed: [
+					{ name: 'Murder Chef' }	
+				]
+			}
         ],
 
         filtered: []
