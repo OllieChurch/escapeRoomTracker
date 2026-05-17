@@ -541,7 +541,15 @@ export default {
 				gamesPlayed: [
 					{ name: 'Murder Chef' }	
 				]
-			}
+			},
+            {
+                venue: 'Mimic Escape',
+                city: 'Leighton Buzzard',
+                country: 'UK',
+                gamesPlayed: [
+                    { name: 'Great Train Robbery' }
+                ]
+            }
         ],
 
         filtered: []
